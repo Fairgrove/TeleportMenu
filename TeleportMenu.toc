@@ -1,0 +1,11 @@
+## Interface: 90005
+## Title: Teleport Menu
+## Author: Terranite / Fagerlund
+## Version: 0
+## Notes: asdf
+
+Bindings.xml
+data.lua
+icon.lua
+menu.lua
+core.lua
